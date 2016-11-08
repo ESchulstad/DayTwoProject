@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayTwoProject\DayTwoProject\bin\Debug\DayTwoProject.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayTwoProject\DayTwoProject\bin\Debug\DayTwoProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayTwoProject\DayTwoProject\bin\Debug\DayTwoProject.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayTwoProject\DayTwoProject\obj\Debug\DayTwoProject.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayTwoProject\DayTwoProject\obj\Debug\DayTwoProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayTwoProject\DayTwoProject\obj\Debug\DayTwoProject.pdb
